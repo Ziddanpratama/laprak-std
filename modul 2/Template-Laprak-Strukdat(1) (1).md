@@ -369,15 +369,7 @@ int main() {
 
 ### Output Unguided 1 :
 
-
-
-
-
-<img width="1920" height="1080" alt="Soalno 1" src="https://github.com/user-attachments/assets/6c958011-a051-4d18-97d9-b34dc6a39158" />
-
-
-
-
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%201/Screenshot%202026-10-05%20120357.png
 
 penjelasan unguided 1 :
 
@@ -445,14 +437,9 @@ void tukar(int &x, int &y, int &z) {
 
 ### Output Unguided 2 :
 
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%202%20pointer/Screenshot%202026-10-05%20120502.png
 
-<img width="1920" height="1080" alt="Soalno 2 Pointer" src="https://github.com/user-attachments/assets/d01c64f5-df94-4b81-accf-c05e9b6991f6" />
-
-
-
-<img width="1920" height="1080" alt="Soalno2 Reference" src="https://github.com/user-attachments/assets/7cd5618f-dc57-4802-8242-4e01507d93fc" />
-
-
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%202%20reference/Screenshot%202026-10-05%20120614.png
 
 penjelasan unguided 2 :
 
@@ -546,10 +533,7 @@ int main() {
 
 ### Output Unguided 3 :
 
-
-<img width="1920" height="1080" alt="Soalno 3" src="https://github.com/user-attachments/assets/cb598750-c028-4231-a698-3942a712e335" />
-
-
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%203/Screenshot%202026-10-05%20120838.png
 
 penjelasan unguided 3 :
 
