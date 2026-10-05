@@ -179,17 +179,16 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+https://github.com/Ziddanpratama/laprak-std/blob/main/UNGUIDED3/Screenshot%202026-09-30%20004552.png
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+https://github.com/Ziddanpratama/laprak-std/blob/main/UNGUIDED3/Screenshot%202026-09-30%20004607.png
 
 penjelasan unguided 3
+#### Program untuk Menampilkan Pola Angka dan Tanda Bintang
 
-## Kesimpulan
+## Kesimpulan 
+### Berdasarkan tiga program unguided yang telah dibuat, dapat disimpulkan bahwa bahasa C++ dapat digunakan untuk mengolah input dan menghasilkan output sesuai kebutuhan. Pada Unguided 1, digunakan variabel bertipe `float` dan operator aritmatika untuk melakukan penjumlahan, pengurangan, perkalian, serta pembagian. Pada Unguided 2, dibuat fungsi `terbilang()` dan percabangan untuk mengubah bilangan bulat dari 0 sampai 100 menjadi bentuk tulisan. Pada Unguided 3, digunakan perulangan bersarang untuk membentuk pola angka menurun, tanda `*`, dan angka menaik. Ketiga program tersebut membantu memahami penggunaan variabel, input-output, fungsi, percabangan, operator, serta perulangan dalam pemrograman C++.
 ...
 
 ## Referensi
