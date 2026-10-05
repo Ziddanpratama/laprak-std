@@ -34,9 +34,9 @@ source code guided 1
 
     return 0;
 }
+```
 penjelasan singkat guided 1
-
-Program ini mendeskripsikan penggunaan Array 1 Dimensi berukuran 5 elemen untuk menyimpan nilai integer, lalu mencetak setiap elemennya menggunakan perulangan for.
+#### Program ini mendeskripsikan penggunaan Array 1 Dimensi berukuran 5 elemen untuk menyimpan nilai integer, lalu mencetak setiap elemennya menggunakan perulangan for.
 
 ### 2. Array 2
 
@@ -62,9 +62,9 @@ int main() {
     cout << nilai[1][2] << endl;
     return 0;
 }
+```
 penjelasan singkat guided 2
-
-Program mengimplementasikan Array 2 Dimensi (matriks 3x3). Program menampilkan seluruh matriks menggunakan nested loop serta mengakses elemen spesifik pada baris indeks ke-1 dan kolom indeks ke-2.
+#### Program mengimplementasikan Array 2 Dimensi (matriks 3x3). Program menampilkan seluruh matriks menggunakan nested loop serta mengakses elemen spesifik pada baris indeks ke-1 dan kolom indeks ke-2.
 
 ### 3. Array 3
 
@@ -89,11 +89,13 @@ int main() {
 
     return 0;
 }
+```
 penjelasan singkat guided 3
-
-Program ini mendemonstrasikan Array 3 Dimensi berukuran 2 x 2 x 3 dan mencetak nilai pada posisi indeks [0][1][2], yaitu 60.
+#### Program ini mendemonstrasikan Array 3 Dimensi berukuran 2 x 2 x 3 dan mencetak nilai pada posisi indeks [0][1][2], yaitu 60.
 
 ### 4. Alamat 
+
+```C++
 #include <iostream>
 using namespace std;
 
@@ -105,12 +107,13 @@ int main() {
 
     return 0;
 }
-
+```
 penejelasan singkat guided 4 : 
-
-Program ini menampilkan nilai dari variabel angka (100) dan mengakses alamat memori variabel tersebut di RAM dengan menggunakan operator address-of (&angka).
+#### Program ini menampilkan nilai dari variabel angka (100) dan mengakses alamat memori variabel tersebut di RAM dengan menggunakan operator address-of (&angka).
 
 ### 5. Pointer 1 dan 2
+
+```C++
 //Pointer 1
 #include <iostream>
 using namespace std;
@@ -150,14 +153,13 @@ int main() {
     return 0;
 
 }
-
+```
 penjelasan singkat guided 5 :
-
-Program menampilkan nilai elemen array karakter pada indeks ke-3 ('b') dan menampilkan alamat memori dari elemen indeks ke-4 (&(arr[4])) menggunakan operator address-of (&).
-Program ini menunjukkan dasar variabel pointer. Variabel pointer menyimpan alamat dari angka, dan operator dereference (*pointer) digunakan untuk mengakses nilai yang ada pada alamat tersebut (100).
+#### Program menampilkan nilai elemen array karakter pada indeks ke-3 ('b') dan menampilkan alamat memori dari elemen indeks ke-4 (&(arr[4])) menggunakan operator address-of (&). Program ini menunjukkan dasar variabel pointer. Variabel pointer menyimpan alamat dari angka, dan operator dereference (*pointer) digunakan untuk mengakses nilai yang ada pada alamat tersebut (100).
 
 ### 6. Function
 
+```C++
 #include <iostream>
 using namespace std;
 
@@ -192,13 +194,13 @@ int main() {
     return 0;
 
 }
-
+```
 penjelasan singkat guided 6 :
-
-Program menggunakan fungsi maks3() yang menerima 3 masukan integer dan mengembalikan nilai terbesar di antara ketiganya.
+#### Program menggunakan fungsi maks3() yang menerima 3 masukan integer dan mengembalikan nilai terbesar di antara ketiganya.
 
 ### 7. Procedure
 
+```C++
 #include <iostream>
 using namespace std;
 
@@ -210,12 +212,13 @@ int main() {
     sapa();
     return 0;
 }
-
+```
 penjelasan singkat guided 7 :
-
-Program ini menggunakan prosedur sapa() bernilai balik void untuk menampilkan teks ucapan selamat datang di layar tanpa mengembalikan nilai data apapun.
+#### Program ini menggunakan prosedur sapa() bernilai balik void untuk menampilkan teks ucapan selamat datang di layar tanpa mengembalikan nilai data apapun.
 
 ### 8. callby Value/Pointer/Reference
+
+```C++
 //Value
 #include <iostream>
 using namespace std;
@@ -298,19 +301,16 @@ void tukar (int &x, int &y) {
     cout<< "nilai akhir pada fungsi tukar \n";
     cout << " x = "<<x<<" y="<<y<<endl;
 }
-
+```
 penjelasan singkat guided 8 :
-
-Program membandingkan 3 metode pemanggilan parameter:
-Call by Value: Perubahan nilai di fungsi tidak mengubah nilai asli variabel di main().
-Call by Pointer: Mengirimkan alamat memori (&a), perubahan pada pointer mempengaruhi nilai asli variabel di main().
-Call by Reference: Menggunakan alias (&x), perubahan langsung mengubah variabel asli di main()
+#### Program membandingkan 3 metode pemanggilan parameter:Call by Value: Perubahan nilai di fungsi tidak mengubah nilai asli variabel di main(). Call by Pointer: Mengirimkan alamat memori (&a), perubahan pada pointer mempengaruhi nilai asli variabel di main().    Call by Reference: Menggunakan alias (&x), perubahan langsung mengubah variabel asli di main()
 
 
 ## Unguided 
 
 ### 1. Buatlah program yang dapat melakukan operasi penjumlahan, pengurangan, dan perkalian matriks 3x3  
 
+```C++
 #include <iostream>
 using namespace std;
 
@@ -366,18 +366,18 @@ int main() {
 
     return 0;
 }
-
+```
 ### Output Unguided 1 :
 
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%201/Screenshot%202026-10-05%20120357.png
 
 penjelasan unguided 1 :
-
-Program mengimplementasikan Array 2D untuk menghitung matriks 3x3. Operasi penjumlahan dan pengurangan dihitung elemen per elemen, sedangkan perkalian matriks menggunakan tiga tingkatan perulangan (nested loop) untuk mengalikan baris matriks A dengan kolom matriks B.
+#### Program mengimplementasikan Array 2D untuk menghitung matriks 3x3. Operasi penjumlahan dan pengurangan dihitung elemen per elemen, sedangkan perkalian matriks menggunakan tiga tingkatan perulangan (nested loop) untuk mengalikan baris matriks A dengan kolom matriks B.
 
 
 ### 2. Berdasarkan guided pointer dan reference sebelumnya, buatlah keduanya dapat menukar nilai dari 3 variabel  
 
+```C++
 //Pointer
 #include <iostream>
 using namespace std;
@@ -434,7 +434,7 @@ void tukar(int &x, int &y, int &z) {
     cout << "\nnilai akhir pada fungsi tukar \n";
     cout << " x = " << x << " y = " << y << " z = " << z << endl;
 }
-
+```
 ### Output Unguided 2 :
 
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%202%20pointer/Screenshot%202026-10-05%20120502.png
@@ -442,12 +442,12 @@ https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%202%20point
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%202%20reference/Screenshot%202026-10-05%20120614.png
 
 penjelasan unguided 2 :
-
-Program ini melakukan penukaran posisi nilai 3 variabel (a, b, c) secara berputar menggunakan fungsi dengan perantara pointer (*) dan reference (&), sehingga nilai pada variabel di main() langsung berubah.
+#### Program ini melakukan penukaran posisi nilai 3 variabel (a, b, c) secara berputar menggunakan fungsi dengan perantara pointer (*) dan reference (&), sehingga nilai pada variabel di main() langsung berubah.
 
 
 ### 3. Diketahui sebuah array 1 dimensi sebagai berikut :  arrA = {11, 8, 5, 7, 12, 26, 3, 54, 33, 55} Buatlah program yang dapat mencari nilai minimum, maksimum, dan rata – rata dari array tersebut! Gunakan function cariMinimum() untuk mencari nilai minimum dan function cariMaksimum() untuk mencari nilai maksimum, serta gunakan prosedur hitungRataRata() untuk menghitung nilai rata – rata! Buat program menggunakan menu switch-case seperti berikut ini : --- Menu Program Array ---  • Tampilkan isi array  • cari nilai maksimum • cari nilai minimum  • Hitung nilai rata - rata 
 
+```C++
 #include <iostream>
 using namespace std;
 
@@ -530,18 +530,14 @@ int main() {
 
     return 0;
 }
-
+```
 ### Output Unguided 3 :
 
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul%202/soal%203/Screenshot%202026-10-05%20120838.png
 
 penjelasan unguided 3 :
-
-Program ini mengelola data array 1 dimensi menggunakan mwnu switch-case. Perhitungan nilai minimum dan maksimum dikembalikan melalui fungsi cariMinimum() dan cariMaksimum(), sedangkan pencetakan array dan perhitungan rata-rata dilakukan melalui prosedur.
-
+#### Program ini mengelola data array 1 dimensi menggunakan mwnu switch-case. Perhitungan nilai minimum dan maksimum dikembalikan melalui fungsi cariMinimum() dan cariMaksimum(), sedangkan pencetakan array dan perhitungan rata-rata dilakukan melalui prosedur.
+```
 ## Kesimpulan
-
-Berdasarkan praktikum Modul 1 ini, dapat disimpulkan bahwa:
-1. Array (1D, 2D, 3D) memfasilitasi pengelompokan dan pengolahan data sejenis secara berurutan di dalam memori.
-2. Pointer dan Reference memungkinkan manipulasi data langsung pada lokasi memori fisik melalui pemanggilan parameter.(Call by Pointer/Reference).
-3. Function dan Procedure meningkatkan modularitas kode C++ sehingga program menjadi lebih rapi dan mudah dikembangkan.
+```
+#### Berdasarkan praktikum Modul 1 ini, dapat disimpulkan bahwa: 1. Array (1D, 2D, 3D) memfasilitasi pengelompokan dan pengolahan data sejenis secara berurutan di dalam memori.2. Pointer dan Reference memungkinkan manipulasi data langsung pada lokasi memori fisik melalui pemanggilan parameter.(Call by Pointer/Reference). 3. Function dan Procedure meningkatkan modularitas kode C++ sehingga program menjadi lebih rapi dan mudah dikembangkan.
