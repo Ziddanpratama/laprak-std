@@ -4,43 +4,7 @@
 ## Dasar Teori
 isi dengan penjelasan dasar teori disertai referensi jurnal (gunakan kurung siku [] untuk pernyataan yang mengambil refernsi dari jurnal).
 contoh :
-Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk struktur data yang berisi kumpulan data yang tersusun secara sekuensial, saling bersambungan, dinamis, dan terbatas[1]. Linked list terdiri dari sejumlah node atau simpul yang dihubungkan secara linier dengan bantuan pointer.
-
-### A. ...<br/>
-...
-#### 1. ...
-#### 2. ...
-#### 3. ...
-
-### B. ...<br/>
-...
-#### 1. ...
-#### 2. ...
-#### 3. ...
-
-## Guided 
-
-### 1. ...
-
-```C++
-source code guided 1
-```
-penjelasan singkat guided 1
-
-### 2. ...
-
-```C++
-source code guided 2
-```
-penjelasan singkat guided 2
-
-### 3. ...
-
-```C++
-source code guided 3
-```
-penjelasan singkat guided 3
-
+Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk struktur data yang berisi kumpulan data yang tersusun secara sekuensial, saling bersambungan, dinamis, dan terbatas[1]. Linked list terdiri dari sejumlah node atau simpul yang dihubungkan secara linier dengan bantuan pointer. 
 ## Unguided 
 
 ### 1. Buatlah program yang menerima input-an dua buah bilangan betipe float, kemudian memberikan output-an hasil penjumlahan, pengurangan, perkalian, dan pembagian dari dua bilangan tersebut
