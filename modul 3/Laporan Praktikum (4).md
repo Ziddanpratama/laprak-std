@@ -142,7 +142,7 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/ed35f46d-8762-4e2b-9115-28440134f912" />
+<img width="1920" height="1080" alt="Screenshot (237)" src="https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%201/Screenshot%202026-10-14%20174929.png
 
 
 
@@ -206,7 +206,7 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/28a8d695-3b90-46c9-aa33-de88d4add455" />
+<img width="1920" height="1080" alt="Screenshot (236)" src=https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%202/Screenshot%202026-10-14%20181802.png
 
 
 
@@ -289,7 +289,7 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/0c68a743-cd0c-4ed0-875a-9b7d27d90794" />
+<img width="1920" height="1080" alt="Screenshot (238)" src=https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%203/Screenshot%202026-10-14%20183144.png
 
 
 
