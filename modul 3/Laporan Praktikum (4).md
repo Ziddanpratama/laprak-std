@@ -31,7 +31,7 @@ float rata2 (mahasiswa m) ;
 #endif
 
 #### penjelasan singkat guided 1 :
-
+```
 File header ini menjelaskan ADT mahasiswa berupa struct dengan variabel nim (array char), nilai1, dan nilai2. File ini juga mendeklarasikan prosedur inputMhs untuk mengisi data mahasiswa (dengan parameter by reference &) dan fungsi rata2 untuk menghitung rata-rata nilai. Baris #ifndef, #define, dan #endif mencegah header terinclude lebih dari 1 kali.
 
 ### 2. Mahasiswa2.cpp
@@ -55,7 +55,7 @@ float rata2(mahasiswa m) {
 }
 
 #### penjelasan singkat guided 2 :
-
+```
 File ini berisi implementasi dari dua operasi yang dideklarasikan di header. Prosedur inputMhs meminta pengguna memasukkan NIM, nilai1, dan nilai2 lalu menyimpannya ke variabel m.
 
 ### 3. Mahasiswa3.cpp
@@ -72,7 +72,7 @@ int main () {
 }
 
 #### penjelasan singkat guided 3 :
-
+```
 File ini adalah program utama (main). Di dalamnya dibuat variabel mhs bertipe mahasiswa, lalu dipanggil inputMhs(mhs) untuk mengisi data, dan hasil rata2(mhs) ditampilkan di terminal sebagai rata-rata nilai. File ini memakai ADT dengan menginclude mahasiswa.h.
 
 ## Unguided 
@@ -281,11 +281,10 @@ https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%203/Scr
 
 
 #### penjelasan unguided 3 :
-```
+
 Program ini memakai dua array 2D integer berukuran 3x3 (A dan B) dan dua pointer integer. Fungsi tampilArray menampilkan isi array dengan perulangan bersarang. Fungsi tukarPosisi menukar isi A dan B pada baris dan kolom tertentu memakai variabel temp. Fungsi tukarPointer menukar nilai dari variabel yang ditunjuk oleh dua pointer, yaitu ptr1 yang menunjuk ke A[0][0] dan ptr2 yang menunjuk ke B[2][2]. Karena pointer mengakses alamat asli, nilai di array A dan B ikut berubah setelah penukaran.
 
 
-```
 ## Kesimpulan
 
 Berdasarkan praktikum Modul 3 ini, dapat disimpulkan bahwa:
