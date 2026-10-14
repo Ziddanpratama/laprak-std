@@ -136,10 +136,10 @@ int main() {
     return 0;
 }
 
-
+```
 ### Output Unguided 1 :
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%201/Screenshot%202026-10-14%20174929.png
-
+```C++
 penjelasan unguided 1 :
 ```
 Program ini menyimpan data maksimal 10 mahasiswa menggunakan array bertipe struct Mahasiswa yang berisi nama, nim, uts, uas, tugas, dan nilaiAkhir. Pengguna memasukkan jumlah mahasiswa, lalu mengisi data tiap mahasiswa dengan perulangan for. Nilai akhir tidak diinput, tetapi dihitung oleh fungsi hitungNilaiAkhir dengan rumus 0.3*uts + 0.4*uas + 0.3*tugas. Setelah terisi, program menampilkan seluruh data beserta nilai akhirnya.
@@ -193,7 +193,7 @@ int main() {
 
     return 0;
 }
-
+```
 ### Output Unguided 2 :
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%202/Screenshot%202026-10-14%20181802.png
 
@@ -203,7 +203,7 @@ https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%202/Scr
 ```
 Program ini membuat ADT pelajaran yang terdiri dari tiga file. Header berisi struct pelajaran (namaMapel dan kodeMapel) dan deklarasi fungsi create_pelajaran dan prosedur tampil_pelajaran. File .cpp berisi implementasinya: create_pelajaran membuat dan mengembalikan data pelajaran dari nama dan kode yang diberikan, sedangkan tampil_pelajaran mencetak datanya ke terminal. Pada main, dibuat pelajaran “Struktur Data” dengan kode “STD”, lalu ditampilkan dan muncul output nama pelajaran : Struktur Data dan nilai : STD.
 
-
+```
 ### 3. Buatlah program dengan ketentuan : - 2 buah array 2D integer berukuran 3x3 dan 2 buah pointer integer - fungsi/prosedur yang menampilkan isi sebuah array integer 2D - fungsi/prosedur yang akan menukarkan isi dari 2 array integer 2D pada posisi tertentu - fungsi/prosedur yang akan menukarkan isi dari variabel yang ditunjuk oleh 2 buah pointer 
 
 ```C++
@@ -273,7 +273,7 @@ int main() {
 
     return 0;
 }
-
+```
 ### Output Unguided 3 :
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%203/Screenshot%202026-10-14%20183144.png
 
@@ -285,7 +285,7 @@ https://github.com/Ziddanpratama/laprak-std/blob/main/modul%203/UNGUIDED%203/Scr
 Program ini memakai dua array 2D integer berukuran 3x3 (A dan B) dan dua pointer integer. Fungsi tampilArray menampilkan isi array dengan perulangan bersarang. Fungsi tukarPosisi menukar isi A dan B pada baris dan kolom tertentu memakai variabel temp. Fungsi tukarPointer menukar nilai dari variabel yang ditunjuk oleh dua pointer, yaitu ptr1 yang menunjuk ke A[0][0] dan ptr2 yang menunjuk ke B[2][2]. Karena pointer mengakses alamat asli, nilai di array A dan B ikut berubah setelah penukaran.
 
 
-
+```
 ## Kesimpulan
 
 Berdasarkan praktikum Modul 3 ini, dapat disimpulkan bahwa:
