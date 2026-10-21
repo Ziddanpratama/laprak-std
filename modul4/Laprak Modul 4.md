@@ -501,7 +501,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%204/UNGUIDED/Tangkapan%20Layar%202026-10-20%20pukul%2021.30.05.png
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul4/UNGUIDED/Outputsoal1.png
 
 
 penjelasan unguided 1 :
@@ -552,7 +552,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%204/UNGUIDED/Tangkapan%20Layar%202026-10-20%20pukul%2021.32.20.png
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul4/UNGUIDED/Outputsoal2.png
 
 
 penjelasan unguided 2 :
