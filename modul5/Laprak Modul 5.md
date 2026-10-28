@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 5 - SINGLY LINKED LIST (BAGIAN KEDUA)</h1>
-<p align="center">Bayusatrio Suryanovic Ibrahim - 109082500047</p>
+<p align="center">Muhammad Ziddan Rizki Pratama - 109082500053</p>
 
 ## Dasar Teori
 Singly linked list adalah struktur data dinamis yang terdiri dari node. Setiap node menyimpan data dan pointer ke node berikutnya, sedangkan pointer `first` menunjuk node pertama. Node terakhir menunjuk `Nil`, yang menandakan akhir list [1].
@@ -555,9 +555,11 @@ int main()
 ### Output Unguided 1 :
 
 ##### Output 1
-<img width="902" height="94" alt="Tangkapan Layar 2026-10-27 pukul 22 58 47" src="https://github.com/user-attachments/assets/edc2ee3d-252b-41f8-8678-66d50ebcc17a" />
+```C++
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul5/UNGUIDED/UNGUIDED1/Screenshot%202026-10-28%20201639.png
 
 penjelasan unguided 1 : 
+```
 Program Unguided 1 membuat singly linked list, lalu memasukkan nilai 2, 0, 8, 12, dan 9 satu per satu menggunakan `insertFirst`. Karena setiap nilai ditambahkan ke bagian awal list, urutan tampilannya menjadi terbalik, yaitu `9 12 8 0 2`.
 
 ### 2. Carilah elemen dengan info 8 dengan membuat fungsi baru, fungsi findElm( L : List, x : infotype ) : address
@@ -682,9 +684,11 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 1
-<img width="907" height="78" alt="Tangkapan Layar 2026-10-27 pukul 23 14 24" src="https://github.com/user-attachments/assets/476e9977-38d4-4509-aace-f6c97cfeec81" />
+```C++
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul5/UNGUIDED/UNGUIDED2/Screenshot%202026-10-28%20201827.png
 
 penjelasan unguided 2 :
+```
 Program Unguided 2 membentuk singly linked list dengan nilai 2, 0, 8, 12, dan 9, lalu mencari nilai 8 menggunakan fungsi `findElm`. Fungsi menelusuri node dari awal hingga nilai ditemukan atau mencapai akhir list. Karena nilai 8 ditemukan, program menampilkan pesan `8 ditemukan dalam list`.
 
 ### 3. Hitunglah jumlah total info seluruh elemen (9+12+8+0+2=31).
@@ -807,9 +811,11 @@ int main()
 ### Output Unguided 3 :
 
 ##### Output 1
-<img width="903" height="105" alt="Tangkapan Layar 2026-10-27 pukul 23 26 34" src="https://github.com/user-attachments/assets/cb264b1b-19d4-433a-a408-2188e27db991" />
+```C++
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul5/UNGUIDED/UNGUIDED3/Screenshot%202026-10-28%20202129.png
 
 penjelasan unguided 3 :
+```
 Program Unguided 3 membuat singly linked list yang berisi nilai 2, 0, 8, 12, dan 9. Fungsi `sumInfo` menelusuri setiap node dan menjumlahkan nilainya, kemudian hasilnya ditampilkan. Total seluruh nilai adalah 31.
 
 ## Kesimpulan
