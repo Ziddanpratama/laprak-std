@@ -555,11 +555,9 @@ int main()
 ### Output Unguided 1 :
 
 ##### Output 1
-```C++
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul5/UNGUIDED/UNGUIDED1/Screenshot%202026-10-28%20201639.png
 
-penjelasan unguided 1 : 
-```
+##### penjelasan unguided 1 : 
 Program Unguided 1 membuat singly linked list, lalu memasukkan nilai 2, 0, 8, 12, dan 9 satu per satu menggunakan `insertFirst`. Karena setiap nilai ditambahkan ke bagian awal list, urutan tampilannya menjadi terbalik, yaitu `9 12 8 0 2`.
 
 ### 2. Carilah elemen dengan info 8 dengan membuat fungsi baru, fungsi findElm( L : List, x : infotype ) : address
@@ -684,11 +682,9 @@ int main()
 ### Output Unguided 2 :
 
 ##### Output 1
-```C++
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul5/UNGUIDED/UNGUIDED2/Screenshot%202026-10-28%20201827.png
 
-penjelasan unguided 2 :
-```
+##### penjelasan unguided 2 :
 Program Unguided 2 membentuk singly linked list dengan nilai 2, 0, 8, 12, dan 9, lalu mencari nilai 8 menggunakan fungsi `findElm`. Fungsi menelusuri node dari awal hingga nilai ditemukan atau mencapai akhir list. Karena nilai 8 ditemukan, program menampilkan pesan `8 ditemukan dalam list`.
 
 ### 3. Hitunglah jumlah total info seluruh elemen (9+12+8+0+2=31).
@@ -811,11 +807,9 @@ int main()
 ### Output Unguided 3 :
 
 ##### Output 1
-```C++
 https://github.com/Ziddanpratama/laprak-std/blob/main/modul5/UNGUIDED/UNGUIDED3/Screenshot%202026-10-28%20202129.png
 
-penjelasan unguided 3 :
-```
+##### penjelasan unguided 3 :
 Program Unguided 3 membuat singly linked list yang berisi nilai 2, 0, 8, 12, dan 9. Fungsi `sumInfo` menelusuri setiap node dan menjumlahkan nilainya, kemudian hasilnya ditampilkan. Total seluruh nilai adalah 31.
 
 ## Kesimpulan
