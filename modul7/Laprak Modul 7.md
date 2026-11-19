@@ -249,7 +249,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 
-https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%207/UNGUIDED/UNGUIDED%201/Tangkapan%20Layar%202026-11-17%20pukul%2022.56.44.png
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul7/UNGUIDED/UNGUIDED1/Screenshot%202026-11-19%20135717.png
 
 #### penjelasan unguided 1
 Stack dibuat menggunakan array dan diisi dengan angka 3, 4, 8, 2, 3, dan 9. Proses push dan pop dilakukan sesuai prinsip LIFO, lalu fungsi balikStack digunakan untuk membalik urutan elemen sehingga hasil akhirnya menjadi terbalik dari urutan awal.
@@ -385,7 +385,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 
-https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%207/UNGUIDED/UNGUIDED%202/Tangkapan%20Layar%202026-11-17%20pukul%2023.05.18.png
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul7/UNGUIDED/UNGUIDED2/Screenshot%202026-11-19%20140533.png
 
 #### penjelasan unguided 2
 Stack digunakan untuk memasukkan data dengan prosedur pushAscending agar urutan data tetap naik. Setelah semua data masuk, fungsi balikStack dipanggil untuk membalik isi stack sehingga program dapat menampilkan urutan yang berbeda dari susunan awal.
@@ -524,7 +524,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 
-https://github.com/BayusatrioSuryanovicIbrahim/PRAKTIKUM-STRUKTUR-DATA/blob/main/MODUL%207/UNGUIDED/UNGUIDED%203/Tangkapan%20Layar%202026-11-17%20pukul%2023.11.32.png
+https://github.com/Ziddanpratama/laprak-std/blob/main/modul7/UNGUIDED/UNGUIDED3/Screenshot%202026-11-19%20141830.png
 
 #### penjelasan unguided 3
 Program membaca input angka dari user dan menyimpannya ke stack sampai tombol enter ditekan. Data tersebut kemudian ditampilkan dan dibalik dengan fungsi balikStack, sehingga terlihat bahwa stack mengikuti prinsip LIFO dalam proses penyimpanan dan pengolahan data.
